@@ -5,4 +5,4 @@ Invoke with ./colorshow.sh
 
 Standard output shows escape characters for the palette colors.
 
-Use flag '-p' for palette number output.
+Use flag '-p' for palette number output. (recommended, will become the default later)
