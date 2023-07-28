@@ -3,8 +3,12 @@
 
 Shows colors currently set in GNOME terminal's Edit > Preferences > Colors tab for the currently selected profile for testing out custom color choices and their combinations.
 
-Invoke with ./colorshow.sh
+Command: ./colorshow.sh
+
+For now, I recommend widening or full-screening the terminal so that all of the columns line up, eventually columns will scale with the size of the terminal window.
+
+From there, just change colors in the preferences to see them change in the previously run command's output.
 
 Standard output shows escape characters for the palette colors.
 
-Use flag '-p' for palette number output. (recommended, will become the default later)
+Use flag '-p' for palette number output, +1. (Recommended, will become the default later)
