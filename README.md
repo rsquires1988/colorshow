@@ -9,6 +9,6 @@ For now, I recommend widening or full-screening the terminal so that all of the 
 
 From there, just change colors in the preferences to see them change in the previously run command's output.
 
-Standard output shows escape characters for the palette colors.
+Standard output shows palette colors (+1).
 
-Use flag '-p' for palette number output, +1. (Recommended, will become the default later)
+Use flag '-e' for escape character output.
